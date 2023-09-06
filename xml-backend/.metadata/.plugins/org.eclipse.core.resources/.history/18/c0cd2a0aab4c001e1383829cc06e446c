@@ -1,0 +1,5 @@
+package com.xmlupload.apirest;
+
+public class CorsConfig {
+
+}
